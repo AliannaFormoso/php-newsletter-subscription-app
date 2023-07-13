@@ -4,7 +4,7 @@
 
 ## 📜 Full Stack Development. Level 3. Ed 2022
 
-### 🎓 PHP Lab: Newsletter Subscription app
+### 🎓 Capstone Project: PHP Lab on a Newsletter Subscription app
 
 ## 🤵 Mentor
 
